@@ -1,0 +1,5 @@
+{
+  "name": "Online Vim Editor",
+  "description": "A fully functional online Vim editor built with React and CodeMirror. It features a classic Vim status line, font size controls, and a one-click copy-to-clipboard button, all wrapped in a sleek, modern, dark-themed interface.",
+  "requestFramePermissions": []
+}
